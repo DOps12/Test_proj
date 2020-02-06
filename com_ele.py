@@ -4,7 +4,7 @@ def common_ele(l,n):
         if i in n:
                 e.append(i)
     return e
-
+#Hello######
 n = [1,2,3,4,5]
 l = [1,3,4,6]
 print(common_ele(l,n))
