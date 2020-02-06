@@ -6,5 +6,5 @@ def common_ele(l,n):
     return e
 
 n = [1,2,3,4,5]
-ln = [1,3,4,6]
-print(common_ele(ln,n))
+l = [1,3,4,6]
+print(common_ele(l,n))
